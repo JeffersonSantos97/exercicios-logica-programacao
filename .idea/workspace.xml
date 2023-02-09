@@ -1,12 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="" />
+    <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios-logica-programacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/exer_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/exer_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/exer_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/exer_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/exer_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vetores/exer_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vetores/exer_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vetores/exer_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vetores/exer_004.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LUZyxE0Yy2TDzpdukOCMZbVlFv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.vetores.exer_003">
+    <configuration name="exer_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeticao.exer_003" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exer_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeticao.exer_004" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vetores.exer_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.exer_001" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vetores.exer_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.exer_002" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vetores.exer_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.exer_003" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.vetores.exer_003" />
+        <item itemvalue="Application.vetores.exer_002" />
+        <item itemvalue="Application.vetores.exer_001" />
+        <item itemvalue="Application.exer_004" />
+        <item itemvalue="Application.exer_003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="" />
+      <created>1675927885656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675927885656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
