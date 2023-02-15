@@ -2,7 +2,7 @@ package vetores;
 
 import java.util.Scanner;
 
-public class exer_003 {
+public class Exer_003 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

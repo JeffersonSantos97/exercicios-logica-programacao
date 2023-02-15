@@ -1,4 +1,4 @@
 package condicionais;
 
-public class exer_001 {
+public class Exer_001 {
 }

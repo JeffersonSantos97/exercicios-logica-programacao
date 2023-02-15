@@ -2,7 +2,7 @@ package repeticao;
 
 import java.util.Scanner;
 
-public class exer_001 {
+public class Exer_001 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner( System.in );
