@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionais/Exer_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repeticao/Exer_006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repeticao/Exer_008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/Exer_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/exer_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionais/Exer_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/exer_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/exer_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/exer_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/exer_005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/Exer_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/exer_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/Exer_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/exer_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/Exer_003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/exer_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/Exer_004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repeticao/Exer_007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_007.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,33 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.repeticao.Exer_006">
-    <configuration name="Exer_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicionais.Exer_007" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="condicionais.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicionais.Exer_008" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="condicionais.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.repeticao.Exer_008">
     <configuration name="Exer_009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="condicionais.Exer_009" />
       <module name="exercicios-logica-programacao" />
@@ -122,13 +78,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="repeticao.Exer_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeticao.Exer_007" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repeticao.Exer_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeticao.Exer_008" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.repeticao.Exer_008" />
+        <item itemvalue="Application.repeticao.Exer_007" />
         <item itemvalue="Application.repeticao.Exer_006" />
         <item itemvalue="Application.Exer_010" />
         <item itemvalue="Application.Exer_009" />
-        <item itemvalue="Application.Exer_008" />
-        <item itemvalue="Application.Exer_007" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675931231377</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1676426101239</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676426101239</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
