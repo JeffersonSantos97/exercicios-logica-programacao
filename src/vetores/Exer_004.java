@@ -8,14 +8,22 @@ public class Exer_004 {
 
         Scanner sc = new Scanner(System.in);
 
-        int[] vetorB = new int[15];
-        int[] invert = new int[vetorB.length];
-        for(int i = 0; i < vetorB.length; i++ ){
+        int[] vetores = new int[5];
 
-            vetorB[i] = sc.nextInt();
+        for(int i = 0 ; i < vetores.length; i++ ){
+
+            vetores[i] = sc.nextInt();
+        }
+        System.out.print("Vetor = ");
+        for(int vetor : vetores) {
+
+            System.out.print(vetor + " ");
         }
 
+        for(int j = vetores.length - 1 ; j >=0; j--){
 
+            System.out.println(vetores[j]);
+        }
 
         sc.close();
     }
