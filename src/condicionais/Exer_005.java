@@ -8,6 +8,7 @@ public class Exer_005 {
         Scanner sc = new Scanner( System.in);
 
         String sexo = sc.next();
+
         if(sexo.equalsIgnoreCase("M")) {
 
             System.out.println("Masculino");
