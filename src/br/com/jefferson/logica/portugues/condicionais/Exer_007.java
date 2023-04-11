@@ -21,7 +21,11 @@ public class Exer_007 {
         letra = sc.next();
 
         // condicao
-        if(letra.equalsIgnoreCase("A") || letra.equalsIgnoreCase("e") || letra.equalsIgnoreCase("i")
+        if(letra.length() > 1){
+
+            System.out.println("Isso não é uma letra");
+        }
+        else if(letra.equalsIgnoreCase("A") || letra.equalsIgnoreCase("e") || letra.equalsIgnoreCase("i")
         || letra.equalsIgnoreCase("o") || letra.equalsIgnoreCase("u")) {
 
             System.out.println(letra + " é uma Vogal");

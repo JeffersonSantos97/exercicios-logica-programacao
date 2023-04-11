@@ -2,60 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionais/Exer_015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/Exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/Exer_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Exer_012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_007.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +41,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -94,48 +52,9 @@
       <recent name="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer_003">
-    <configuration name="Exer_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_001" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_002" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_003" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_004" />
+  <component name="RunManager" selected="Application.Exer_006">
+    <configuration name="Exer_006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_006" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
@@ -147,12 +66,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer_005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_005" />
+    <configuration name="Exer_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_007" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.loop.*" />
+          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_008" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer_009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_009" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer_010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_010" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer_003" />
-        <item itemvalue="Application.Exer_002" />
-        <item itemvalue="Application.Exer_001" />
-        <item itemvalue="Application.Exer_005" />
-        <item itemvalue="Application.Exer_004" />
+        <item itemvalue="Application.Exer_006" />
+        <item itemvalue="Application.Exer_010" />
+        <item itemvalue="Application.Exer_009" />
+        <item itemvalue="Application.Exer_008" />
+        <item itemvalue="Application.Exer_007" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677832205161</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1680681989795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680681989798</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +201,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
