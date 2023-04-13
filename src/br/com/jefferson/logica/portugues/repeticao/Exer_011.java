@@ -1,4 +1,4 @@
-package repeticao;
+package br.com.jefferson.logica.portugues.repeticao;
 
 import java.util.Scanner;
 

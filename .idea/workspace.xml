@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais/Exer_007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repeticao/Exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +67,35 @@
       <recent name="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer_006">
-    <configuration name="Exer_006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_006" />
+  <component name="RunManager" selected="Application.Exer_008">
+    <configuration name="Exer_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_007" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_008" />
+      <module name="exercicios-logica-programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer_011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_011" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_007" />
+    <configuration name="Exer_012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_012" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
+          <option name="PATTERN" value="com.jefferson.logic.english.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,38 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_008" />
+    <configuration name="com.jefferson.logic.english.array.Exer_006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_006" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_009" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.conditional.Exer_010" />
-      <module name="exercicios-logica-programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.conditional.*" />
+          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer_006" />
-        <item itemvalue="Application.Exer_010" />
-        <item itemvalue="Application.Exer_009" />
         <item itemvalue="Application.Exer_008" />
         <item itemvalue="Application.Exer_007" />
+        <item itemvalue="Application.com.jefferson.logic.english.array.Exer_006" />
+        <item itemvalue="Application.Exer_012" />
+        <item itemvalue="Application.Exer_011" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680681989798</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1681198027012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681198027012</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

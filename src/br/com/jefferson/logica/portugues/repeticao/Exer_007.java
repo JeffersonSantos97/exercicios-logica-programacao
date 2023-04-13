@@ -1,4 +1,4 @@
-package repeticao;
+package br.com.jefferson.logica.portugues.repeticao;
 
 public class Exer_007 {
     public static void main(String[] args) {
