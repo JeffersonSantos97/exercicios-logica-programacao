@@ -18,7 +18,7 @@ public class Exer_015 {
 
     double media = total / qtdNumeros;
 
-        System.out.println("Total = " + total);
+        System.out.println("Soma = " + total);
         System.out.println("Media = " + media);
 
 

@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="commit">
+    <list default="true" id="24556922-25fd-4692-9012-35bf3debc58a" name="Changes" comment="commit refactoring">
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_015.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/vetores/Exer_008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/array/Exer_005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_008.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_009.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/conditional/Exer_010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jefferson/logic/english/loop/Exer_007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repeticao/Exer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeticao/Exer_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/repeticao/Exer_015.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +52,13 @@
       <recent name="$PROJECT_DIR$/src/br/com/jefferson/logica/portugues/condicionais" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer_008">
-    <configuration name="Exer_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_007" />
+  <component name="RunManager" selected="Application.Exer_020">
+    <configuration name="Exer_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.jefferson.logica.portugues.repeticao.Exer_016" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
+          <option name="PATTERN" value="br.com.jefferson.logica.portugues.repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer_008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_008" />
+    <configuration name="Exer_017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.jefferson.logica.portugues.repeticao.Exer_017" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
+          <option name="PATTERN" value="br.com.jefferson.logica.portugues.repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer_011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_011" />
+    <configuration name="Exer_018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.jefferson.logica.portugues.repeticao.Exer_018" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.loop.*" />
+          <option name="PATTERN" value="br.com.jefferson.logica.portugues.repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer_012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.loop.Exer_012" />
+    <configuration name="Exer_019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.jefferson.logica.portugues.repeticao.Exer_019" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.loop.*" />
+          <option name="PATTERN" value="br.com.jefferson.logica.portugues.repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.jefferson.logic.english.array.Exer_006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jefferson.logic.english.array.Exer_006" />
+    <configuration name="Exer_020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.jefferson.logica.portugues.repeticao.Exer_020" />
       <module name="exercicios-logica-programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jefferson.logic.english.array.*" />
+          <option name="PATTERN" value="br.com.jefferson.logica.portugues.repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer_008" />
-        <item itemvalue="Application.Exer_007" />
-        <item itemvalue="Application.com.jefferson.logic.english.array.Exer_006" />
-        <item itemvalue="Application.Exer_012" />
-        <item itemvalue="Application.Exer_011" />
+        <item itemvalue="Application.Exer_020" />
+        <item itemvalue="Application.Exer_019" />
+        <item itemvalue="Application.Exer_018" />
+        <item itemvalue="Application.Exer_017" />
+        <item itemvalue="Application.Exer_016" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681198027012</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit refactoring">
+      <created>1681372392445</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681372392445</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +217,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="commit refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit refactoring" />
   </component>
 </project>
